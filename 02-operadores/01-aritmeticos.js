@@ -6,7 +6,7 @@ console.log(a - b, "resta")
 console.log(a * b, "multiplicación")
 console.log(a / b, "división")
 console.log(a % b, "módulo")
-console.log(a + b, "potencia")
+console.log(a **+ b, "potencia")
 
 // incrementar
 console.log(++a)
